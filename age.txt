@@ -1,0 +1,3 @@
+Name = Suraj Raju Tembhurkar
+School Name = Masai School
+Age = 24
